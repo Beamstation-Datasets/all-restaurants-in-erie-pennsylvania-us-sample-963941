@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Full restaurant census covering Erie, Pennsylvania. Filtered by the Restaurants category group, providing business profiles, review counts, contact information, and competitive benchmarks. Refreshed weekly.",
+  "config_name": "All Restaurants in Erie, Pennsylvania, US",
+  "export_job_id": "70bbaaf8-a721-4cef-a964-0806c8f1a9b6",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 963941,
+  "location_name": "Erie",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-erie-pennsylvania-us-sample-963941",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/963941/beamstation_963941_restaurants-us-pa_SAMPLE_DIST.csv",
+  "sample_pct": 11.67,
+  "sample_records": 44,
+  "sample_sha256": "8f7e038f87df066732cce1e75bf674d695e055b7041b349cd4d572346d86f651",
+  "sample_size_bytes": 161104,
+  "total_records": 377,
+  "updated_at": "2026-03-31T15:08:32.351608+00:00"
+}

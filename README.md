@@ -9,9 +9,9 @@
 | Dataset ID | `963941` |
 | Location | Erie |
 | Category | Restaurants |
-| Full dataset size | 377 records |
-| Free sample size | 44 records (11.67%) |
-| Last export | 2026-03-31T15:08:32.351608+00:00 |
+| Full dataset size | 445 records |
+| Free sample size | 44 records (9.89%) |
+| Last export | 2026-04-14T15:53:28.784880+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-erie-pennsylvania-us-sample-963941/releases/download/sample-latest/beamstation_963941_restaurants-us-pa_SAMPLE_DIST.csv) |
 
 ## What is in this sample

@@ -1,12 +1,12 @@
 {
-  "export_job_id": "1fc12c47-9026-453d-98fb-9dbe31e7dae5",
+  "export_job_id": "2f94ed1d-b012-484f-b0eb-59ecf10fa694",
   "id_short": 963941,
-  "published_at": "2026-04-21T20:00:52Z",
+  "published_at": "2026-04-28T19:35:00Z",
   "repo_name": "all-restaurants-in-erie-pennsylvania-us-sample-963941",
   "sample_asset_name": "beamstation_963941_restaurants-us-pa_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/963941/beamstation_963941_restaurants-us-pa_SAMPLE_DIST.csv",
-  "sample_records": 35,
-  "sample_sha256": "e5c467f27799b3137185cfab18a71e9b8fad5901312734640051cdc9eb63bcb6",
-  "sample_size_bytes": 132924,
-  "total_records": 358
+  "sample_records": 39,
+  "sample_sha256": "3bf5bd142a7360a8490386ae79353403f5fc9994d8ca7ad45fb786bf20d294cc",
+  "sample_size_bytes": 147168,
+  "total_records": 392
 }

@@ -1,6 +1,6 @@
 # All Restaurants in Erie, Pennsylvania, US
 
-> Free BeamStation sample export with 39 rows and masked direct-contact fields.
+> Free BeamStation sample export with 45 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `963941` |
 | Location | Erie |
 | Category | Restaurants |
-| Full dataset size | 392 records |
-| Free sample size | 39 records (9.95%) |
-| Last export | 2026-04-28T18:17:21.008459+00:00 |
+| Full dataset size | 458 records |
+| Free sample size | 45 records (9.83%) |
+| Last export | 2026-05-07T02:02:06.004636+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-erie-pennsylvania-us-sample-963941/releases/download/sample-latest/beamstation_963941_restaurants-us-pa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
